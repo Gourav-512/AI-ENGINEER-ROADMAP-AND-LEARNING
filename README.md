@@ -12,10 +12,8 @@
 ## Daily Learning Log (Template)
 **Date | Topic | Resources | Project/Experiment | Progress | Link**
 
-(Example)
-2025-02-28 | RAG with LangChain + Pinecone | LangChain docs + HF course | Built RAG chatbot for MindMatrix | 100% | [link to notebook]
+//2025-02-28 | RAG with LangChain + Pinecone | LangChain docs + HF course | Built RAG chatbot for MindMatrix | 100% | [link to notebook]
 
-*(Tu daily yahan entry daal dena — ye recruiters ko dikhega ki consistent hai tu)*
 
 ## Resources Curated by Me
 - LLM: HuggingFace Course, LangChain, LlamaIndex
